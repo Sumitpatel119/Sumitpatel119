@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="GridArt_20221013_194320077.jpg"  />
 </div>
 
 ###
@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">I am Sumit Patel , student of Baderia Global Institute of Engineering and MAnagement pursuing BTech in Computer Science (6th Sem). 📖</p>
-<p align="left">Hello World!!</p>
-
-###
-
 <p align="left">I am currently learning Advance Java ...</p>
 
 ###
 
+
+###
+
+<p align="left">This is my Tech Stack 💻</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
