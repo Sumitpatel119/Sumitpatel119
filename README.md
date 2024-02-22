@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /> -->
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> -->
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello Everyone !!✨</p>
+<p align="center">Hello Everyone !!✨</p>
 
 ###
 
@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">This is my Tech Stack 💻</p>
-<div align="left">
+<p align="center">This is my Tech Stack 💻</p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> -->
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<p align="center">Visitor's Count !!✨</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sumitpatel119/count.svg?"  />
 </div>
