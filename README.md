@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">Hello Everyone !!✨</p>
+<h3align="center">Hello Everyone !!✨</h3>
 
 ###
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">This is my Tech Stack 💻</p>
+<h4 align="center">This is my Tech Stack 💻</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<p align="center">Visitor's Count !!✨</p>
+<h4 align="center">Visitor's Count !!✨</h4>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sumitpatel119/count.svg?"  />
 </div>
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">I hope you found my profile helpful.</p>
-<p align="left">Thankyou for visiting.👋</p>
+<h3 align="left">Thankyou for visiting.👋</h3>
 
 ###
 ###
