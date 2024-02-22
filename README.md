@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am Sumit Patel , student of Baderia Global Institute of Engineering and MAnagement pursuing BTech in Computer Science (6th Sem). 📖</p>
+<p align="left">I am Sumit Patel , student of Baderia Global Institute of Engineering and Management pursuing BTech in Computer Science (6th Sem). 📖</p>
 <p align="left">I am currently learning Advance Java ...</p>
 
 ###
